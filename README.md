@@ -10,3 +10,5 @@ Authentication Server Phase 3: Role Based Access Control
 ## link to deployed site
 
 [Heroku](https://auth-api-server.herokuapp.com/)
+
+![UML](Screenshot_35.png)
